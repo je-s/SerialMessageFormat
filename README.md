@@ -8,7 +8,7 @@ To make serial communication more easy and consistent, this defines a very simpl
 | --------- | ------- |
 | type | Contains the type of the message |
 | &lt;delimiter&gt; | Containts the delimiter, without the angle brackets. Default is `:` |
-| conent | Contains the message body |
+| content | Contains the message body |
 
 Example:
 * type: `error`
